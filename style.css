@@ -181,16 +181,18 @@ section .title::after{
   margin-right: 0;
 }
 .home .home-content .text-1{
-    color: white;
+    color: blue;
     
     font-size: 27px;
 }
 .home .home-content .text-2{
+    color: blue;
     font-size: 75px;
     font-weight: 600;
     margin-left: -3px;
 }
 .home .home-content .text-3{
+    color: blue;
     font-size: 40px;
     margin: 5px 0;
 }
